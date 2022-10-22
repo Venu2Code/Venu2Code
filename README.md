@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-venu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/venugobal-munisamy-a5070588/)]
-[![Website Badge](https://img.shields.io/badge/WebSite-venu-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-venu-green)](https://venu2code.github.io/VenuProfile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-venu-yellow)](https://stackoverflow.com/users/19612675/venu2code)
 
 I'm
